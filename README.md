@@ -8,7 +8,12 @@
   font-size: 160%;
 }
   
-.para  
+.para {
+  color: black
+  text-align: center;
+  font-family: CircularStd-Black
+  font-size: 100%;
+ }
 </style>
 </head>
 <body>
@@ -18,7 +23,9 @@
 <h1>Curriculum Vitae</h1>
 </div> 
 
+<div class="para">
 <p>Benedicta Christina Carmeline</p>
+</div>
 
 </body>
 </html>
