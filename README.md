@@ -7,6 +7,8 @@
   font-family: photograph signature;
   font-size: 160%;
 }
+  
+.para  
 </style>
 </head>
 <body>
