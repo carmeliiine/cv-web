@@ -1,10 +1,9 @@
 <html>
 <head>
 <style>
-div {
-  background-image: url('background-image.jpg');
-}
+  
 .header {
+  background-image:url('background-image.jpg');
   color: white;
   text-align: center;
   font-family: photograph signature;
@@ -22,19 +21,16 @@ div {
 <body>
   <body style="background-color:#F2B83B;">
 
-<div>
-  <div class="header">
-    <h1>Curriculum Vitae</h1>
-  </div> 
-</div>
+
+ <div class="header">
+ <h1>Curriculum Vitae</h1>
+ </div> 
+
 
 <div class="para">
 <p>Benedicta Christina Carmeline</p>
 </div>
 
-<div class="para">
-<p>Benedicta Christina Carmeline</p>
-</div>
 
 </body>
 
