@@ -9,7 +9,7 @@
 }
   
 .para {
-  color: black
+  color: black;
   text-align: center;
   font-family: CircularStd-Black;
   font-size: 100%;
@@ -28,4 +28,4 @@
 </div>
 
 </body>
-</html>
+
