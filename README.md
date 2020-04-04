@@ -14,7 +14,7 @@
   color: white;
   text-align: left;
   font-size: 130%;
-  font-family: Bargain_Demo;
+  font-family: bargain_demo;
 }
 
 .para {
