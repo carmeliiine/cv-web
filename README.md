@@ -32,5 +32,9 @@ div {
 <p>Benedicta Christina Carmeline</p>
 </div>
 
+<div class="para">
+<p>Benedicta Christina Carmeline</p>
+</div>
+
 </body>
 
