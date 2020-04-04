@@ -1,10 +1,11 @@
-<!DOCTYPE html>
 <html>
 <head>
 <style>
 .header {
   color: white;
   text-align: center;
+  font-family: photograph signature;
+  font-size: 160%;
 }
 </style>
 </head>
