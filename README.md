@@ -2,30 +2,20 @@
 <html>
 <head>
 <style>
-.cities {
-  background-color: black;
+.header {
   color: white;
-  margin: 20px;
-  padding: 20px;
+  text-align: center;
 }
 </style>
 </head>
 <body>
+  <body style="background-color:#F2B83B;">
 
-<div class="cities">
-<h2>London</h2>
-<p>London is the capital of England.</p>
+<div class="header">
+<h1>Curriculum Vitae</h1>
 </div> 
 
-<div class="cities">
-<h2>Paris</h2>
-<p>Paris is the capital of France.</p>
-</div>
-
-<div class="cities">
-<h2>Tokyo</h2>
-<p>Tokyo is the capital of Japan.</p>
-</div>
+<p>Benedicta Christina Carmeline</p>
 
 </body>
 </html>
