@@ -1,6 +1,9 @@
 <html>
 <head>
 <style>
+div {
+  background-image: url('background-image.jpg');
+}
 .header {
   color: white;
   text-align: center;
@@ -19,9 +22,11 @@
 <body>
   <body style="background-color:#F2B83B;">
 
-<div class="header">
-<h1>Curriculum Vitae</h1>
-</div> 
+<div>
+  <div class="header">
+    <h1>Curriculum Vitae</h1>
+  </div> 
+</div>
 
 <div class="para">
 <p>Benedicta Christina Carmeline</p>
