@@ -13,7 +13,8 @@
 .header2 {
   color: white;
   text-align: left;
-  font-size: 130%
+  font-size: 130%;
+  font-family: Bargain_Demo;
 }
 
 .para {
@@ -31,6 +32,10 @@
  <div class="header">
  <h1>Curriculum Vitae</h1>
  </div> 
+ 
+ <div class="header2">
+  <h2> About           Portofolio            Contact</h2>
+  </div>
 
 
 <div class="para">
