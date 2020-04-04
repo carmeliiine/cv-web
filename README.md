@@ -9,7 +9,13 @@
   font-family: photograph signature;
   font-size: 160%;
 }
-  
+ 
+.header2 {
+  color: white;
+  text-align: left;
+  font-size: 130%
+}
+
 .para {
   color: black;
   text-align: center;
